@@ -1,0 +1,35 @@
+# Create a directory
+mkdir directory_name
+
+# Navigate into a directory
+cd directory_name
+
+# List directory contents
+ls
+
+# Rename a directory
+mv old_directory_name new_directory_name
+
+# Delete an empty directory
+rmdir directory_name
+
+# Delete a non-empty directory
+rm -r directory_name
+
+# Create an empty file
+touch file_name.txt
+
+# Create and open a file in nano editor
+nano file_name.txt
+
+# Open a file in Notepad
+notepad file_name.txt
+
+# Open a file in Visual Studio Code (if installed)
+code file_name.txt
+
+# Rename a file
+mv old_file_name.txt new_file_name.txt
+
+# Delete a file
+rm file_name.txt
